@@ -12,7 +12,7 @@ ENV LANG=en_US.UTF-8 \
     # Set this so that CTRL+G works properly
     TERM=xterm \
     OTP_VERSION=20.1.2 \
-    MUSL_VERSION=1.1.18-r1
+    MUSL_VERSION=1.1.18-r2
 
 WORKDIR /tmp/erlang-build
 
