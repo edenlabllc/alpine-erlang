@@ -5,7 +5,7 @@ MAINTAINER Nebo #15 <support@nebo15.com>
 # is updated with the current date. It will force refresh of all
 # of the base images and things like `apt-get update` won't be using
 # old cached versions when the Dockerfile is built.
-ENV REFRESHED_AT=2017-10-15
+ENV REFRESHED_AT=2018-05-28
 
 ENV LANG=en_US.UTF-8 \
     HOME=/opt/app/ \
